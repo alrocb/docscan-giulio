@@ -10,7 +10,7 @@ openpyxl>=3.0.0
 docx2txt>=0.8
 Pillow>=10.0.0
 pytesseract>=0.3.10
-PyPDF2>=3.0.0
+pypdf>=3.0.0
 python-docx>=1.0.0
 
 # LangChain and RAG components - Fixed dependency conflicts
